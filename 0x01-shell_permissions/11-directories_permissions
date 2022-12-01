@@ -1,2 +1,2 @@
 #!/biin/bash
-find ./ -type d exec chmod +x {}\;
+chmod +x -R ./*
