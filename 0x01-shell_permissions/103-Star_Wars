@@ -1,2 +1,2 @@
 #!/bin/bash
-xdg-open https://youtu.be/abNrGibOyCk
+telnet towel.blinkenlights.nl
